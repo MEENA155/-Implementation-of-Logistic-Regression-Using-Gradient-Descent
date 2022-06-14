@@ -89,22 +89,22 @@ plt.show()
 ```
 
 ## Output:
-Dataset:
+## Dataset:
 ![image](https://user-images.githubusercontent.com/94677128/173610965-89da1b02-fc0b-4805-af63-8b0e32c2446e.png)
 
-Predicted y array:
+## Predicted y array:
 ![image](https://user-images.githubusercontent.com/94677128/173611033-2f1ca737-7110-48ca-884e-967c3dc5e5a5.png)
 
-Confusion matrix:
+## Confusion matrix:
 ![image](https://user-images.githubusercontent.com/94677128/173611122-b12d9ad3-3395-4174-88bb-3af802c4e092.png)
 
-Accuracy score:
+## Accuracy score:
 ![image](https://user-images.githubusercontent.com/94677128/173611167-eaa005e6-b453-4d64-8731-c4ab36f817ae.png)
 
-Recall sensitivity and specificity:
+## Recall sensitivity and specificity:
 ![image](https://user-images.githubusercontent.com/94677128/173611193-ad438bf7-1abe-40b3-8721-3391762f632c.png)
 
-Logistic Regression graph:
+## Logistic Regression graph:
 ![Screenshot (47)](https://user-images.githubusercontent.com/94677128/173611965-c2783dbf-d27a-4f68-8cc1-83623a612474.png)
 
 
